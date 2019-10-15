@@ -1,5 +1,6 @@
 from matplotlib import pyplot as plt
 import random
+
 figure = plt.figure(figsize=(12, 8), dpi=80)
 
 # 10-12点每一分钟的气温，共计120分钟
